@@ -1,4 +1,4 @@
-package com.tutorial.path;
+package com.tutorial.resource.path;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
